@@ -1,2 +1,2 @@
-# mu-first-repo
+# my-first-repo
 info....
